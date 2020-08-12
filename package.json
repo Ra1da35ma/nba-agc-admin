@@ -16,7 +16,7 @@
     "crypto": "0.0.3",
     "ejs": "~0.8.4",
     "errorhandler": "~1.0.0",
-    "express": "~4.0.0",
+    "express": "~4.17.1",
     "express-csv": "^0.6.0",
     "express-session": "~1.0.2",
     "foreman": "^0.4.2",
